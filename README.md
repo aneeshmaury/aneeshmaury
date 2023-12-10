@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aneesh_maury" target="blank"><img src="https://img.shields.io/twitter/follow/aneesh_maury?logo=twitter&style=for-the-badge" alt="aneesh_maury" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **JavaScript and React **
 
 - 💬 Ask me about **HTML CSS JavaScript C & C++**
 
